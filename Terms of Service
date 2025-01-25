@@ -1,0 +1,88 @@
+# Terms of Service for Typro Disord Bot
+
+**Last Updated:** 25 Jan 2025
+
+By using the **Typro Disord Bot** (hereinafter referred to as "the Bot"), you agree to comply with and be bound by the following Terms of Service (ToS). If you do not agree to these terms, you must not use the Bot.
+
+---
+
+## 1. **Acceptance of Terms**
+By adding the Bot to your Discord server or using its features, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you are using the Bot on behalf of a server, you represent that you have the authority to bind that server to these terms.
+
+---
+
+## 2. **Bot Usage**
+### 2.1 Permissions
+The Bot requires certain permissions to function properly. These permissions include, but are not limited to:
+- **Read Messages**: To detect and moderate content.
+- **Send Messages**: To respond to commands and send notifications.
+- **Manage Messages**: To delete inappropriate or spam messages.
+- **Manage Roles**: To assign roles for anti-raid measures.
+
+By granting these permissions, you acknowledge that the Bot will perform actions on your server as described in its documentation.
+
+### 2.2 Prohibited Uses
+You agree not to use the Bot for any of the following purposes:
+- **Illegal Activities**: Using the Bot to facilitate or engage in illegal activities.
+- **Harassment**: Using the Bot to harass, bully, or intimidate others.
+- **Spamming**: Using the Bot to spam messages or disrupt server activities.
+- **Exploitation**: Attempting to exploit or abuse the Bot's features for unintended purposes.
+
+---
+
+## 3. **Data Collection and Privacy**
+### 3.1 Data Collected
+The Bot may collect and store the following types of data:
+- **Message Content**: For moderation purposes, the Bot may log message content in channels where it has the `Manage Messages` permission. No personally identifiable information (e.g., usernames, user IDs) is logged.
+- **Command Usage**: The Bot may log command usage for analytics and improvement purposes.
+
+### 3.2 Data Usage
+The data collected by the Bot is used solely for the following purposes:
+- **Moderation**: To detect and delete inappropriate or spam messages.
+- **Analytics**: To improve the Bot's performance and features.
+- **Logging**: To maintain a record of actions taken by the Bot for administrative purposes.
+
+### 3.3 Data Retention
+Logged data is retained for a maximum of **30 days** and is automatically deleted afterward. You may request the deletion of your server's data by contacting the Bot's developer.
+
+---
+
+## 4. **Limitations of Liability**
+### 4.1 No Warranty
+The Bot is provided "as is" without any warranties, express or implied. The developer does not guarantee that the Bot will be error-free, uninterrupted, or secure.
+
+### 4.2 Indemnification
+You agree to indemnify and hold harmless the Bot's developer from any claims, damages, or losses arising from your use of the Bot or violation of these Terms of Service.
+
+### 4.3 Limitation of Liability
+In no event shall the Bot's developer be liable for any indirect, incidental, or consequential damages arising from your use of the Bot.
+
+---
+
+## 5. **Modifications to the Bot and Terms**
+### 5.1 Changes to the Bot
+The developer reserves the right to modify, suspend, or discontinue the Bot at any time without prior notice.
+
+### 5.2 Changes to the Terms
+The developer may update these Terms of Service at any time. You will be notified of significant changes, and continued use of the Bot constitutes acceptance of the updated terms.
+
+---
+
+## 6. **Termination**
+The developer reserves the right to terminate your access to the Bot at any time for violations of these Terms of Service or for any other reason.
+
+---
+
+## 7. **Contact Information**
+If you have any questions or concerns about these Terms of Service, please contact the Bot's developer:
+- **Email:** [tvijayshankar18@gmail.com]
+- **Discord Server:** [https://discord.gg/zSdU6c499h]
+
+---
+
+## 8. **Governing Law**
+These Terms of Service are governed by and construed in accordance with the laws of India. Any disputes arising from these terms shall be resolved in the courts of India.
+
+---
+
+**By using the Typro Disord Bot, you agree to these Terms of Service.**
