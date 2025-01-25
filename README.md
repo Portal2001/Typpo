@@ -1,0 +1,2 @@
+# Typpo
+Typpo dicord bot
